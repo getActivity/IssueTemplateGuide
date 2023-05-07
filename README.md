@@ -118,6 +118,17 @@
 
 * Markdown 语法文档：[MarkdownDoc](https://github.com/getActivity/MarkdownDoc) ![](https://img.shields.io/github/stars/getActivity/MarkdownDoc.svg) ![](https://img.shields.io/github/forks/getActivity/MarkdownDoc.svg)
 
+#### 微信公众号：Android轮子哥
+
+![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/official_ccount.png)
+
+#### Android 技术 Q 群：10047167
+
+#### 如果您觉得我的开源库帮你节省了大量的开发时间，请扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:
+
+![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_ali.png) ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_wechat.png)
+
+#### [点击查看捐赠列表](https://github.com/getActivity/Donate)
 
 ## License
 
