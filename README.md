@@ -1,6 +1,6 @@
-# issue 模板描述
+# issue 模板填写指南
 
-* 项目地址：[Github](https://github.com/getActivity/IssueTemplateDescription)
+* 项目地址：[Github](https://github.com/getActivity/IssueTemplateGuide)
 
 ## 常见疑问解答
 
